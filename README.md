@@ -18,7 +18,7 @@
 - Individual Qiskit projects that are relatively simple.
     - Personal Project on Basic Qiskit Circuits 
         - [Implementation of Qauntum Teleportation](https://github.com/urihan/Quantum_Computing/blob/main/Qiskit/Algorithms/Teleportation.ipynb)
-        - [Implemntaiton of a Simple Variational Quantum Eigensolver (VQE) problem]()
+        - [Implemntaiton of a Simple Variational Quantum Eigensolver (VQE) problem](https://drive.google.com/file/d/12kHaY3HuE_FRj-KfXZbyMqKx6g9ollm1/view)
 
 - Active participation of IBM Quantum / Qiskit events.
     - [IBM Quantum Challenge: Spring 2023 Achievement - Advanced](https://www.credly.com/badges/6a8e45a2-9c54-44d8-894a-f3e2e802d2af/public_url)
