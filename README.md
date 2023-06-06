@@ -5,10 +5,10 @@
 
 - Qiskit code: simple bug fix
 	- Participated in Unitary Hack and submitted 2 PRs on qiskit-amazon-sdk 
-		- [Updates for Qiskit to Braket circuit conversion](https://github.com/qiskit-community/qiskit-braket-provider/pull/97)
-		- [Update using OpenQASMDeviceActionProperties](https://github.com/qiskit-community/qiskit-braket-provider/pull/98)
+		- PR & merged : [Updates for Qiskit to Braket circuit conversion](https://github.com/qiskit-community/qiskit-braket-provider/pull/97)
+		- PR only : [Update using OpenQASMDeviceActionProperties](https://github.com/qiskit-community/qiskit-braket-provider/pull/98)
 	- Added my name under qiskit-platypus
-		- [Update LOCALIZATION_CONTRIBUTORS](https://github.com/Qiskit/platypus/pull/2105)
+		- PR only : [Update LOCALIZATION_CONTRIBUTORS](https://github.com/Qiskit/platypus/pull/2105)
 	- Still working on an issue on qiskit-terra. 
     
 - Create quantum / Qiskit related content (Blogposts)
