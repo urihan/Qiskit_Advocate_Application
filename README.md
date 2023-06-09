@@ -8,7 +8,7 @@
 		- PR & merged : [Updates for Qiskit to Braket circuit conversion](https://github.com/qiskit-community/qiskit-braket-provider/pull/97)
 		- PR only : [Update using OpenQASMDeviceActionProperties](https://github.com/qiskit-community/qiskit-braket-provider/pull/98)
 	- Added my name under qiskit-platypus
-		- PR only : [Update LOCALIZATION_CONTRIBUTORS](https://github.com/Qiskit/platypus/pull/2105)
+		- PR & merged : [Update LOCALIZATION_CONTRIBUTORS](https://github.com/Qiskit/platypus/pull/2105)
 	- Still working on an issue on qiskit-terra. 
     
 - Create quantum / Qiskit related content (Blogposts)
@@ -26,3 +26,11 @@
     - [IBM Qiskit Explorers Program](https://drive.google.com/file/d/1X-9YZuWGuyp7thG7uYiDTEG1Xfvo3Go2/view)
     - [Qiskit Global Summer School 2022 - Quantum Excellence](https://www.credly.com/badges/1023e4bd-0e30-4c69-ada9-af32a0b61005)
     - [Quantum Machine Learning (with IBM Quantum)](https://open.hpi.de/verify/xuder-nohot-rimad-sobid-gizyv)
+
+
+## Tier 4 (1-4 points)
+
+- Qiskit Slack : Constructive Discussions.
+
+    - [Discussion on Qiskit Fall 2022 Challenge]()
+    - [Discussion on Qiskit Spring 2023 Challenge]()
