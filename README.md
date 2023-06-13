@@ -32,5 +32,5 @@
 
 - Qiskit Slack : Constructive Discussions.
 
-    - [Discussion on Qiskit Fall 2022 Challenge]()
-    - [Discussion on Qiskit Spring 2023 Challenge]()
+    - [Discussion on Qiskit Fall 2022 Challenge](https://drive.google.com/file/d/112jgIxUcdMGjNO6qs40pd7VOGAMh9CLC/view?usp=drive_link)
+    - [Discussion on Qiskit Spring 2023 Challenge](https://drive.google.com/file/d/1bk-vP_5K738I0VhgQaTAyW9-QMiF7oR2/view?usp=drive_link)
