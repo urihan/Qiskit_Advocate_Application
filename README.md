@@ -13,7 +13,7 @@
     
 - Create quantum / Qiskit related content (Blogposts)
   - Published a Medium Blogpost on Quantum Teleportation that I worked on for IBM Quantum Spring Challenge 2023.
-  	- [Medium Blog Post]()
+  	- [Medium Blog Post](https://medium.com/@yurihan330)
 
 - Individual Qiskit projects that are relatively simple.
     - Personal Project on Basic Qiskit Circuits 
